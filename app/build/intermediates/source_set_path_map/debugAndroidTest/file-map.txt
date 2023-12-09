@@ -1,0 +1,35 @@
+com.example.project3androidstudio.test.app-emoji2-1.4.0-0 C:\Users\zldel\.gradle\caches\transforms-3\04da80a6fca3327fe9f97cceef988bb0\transformed\emoji2-1.4.0\res
+com.example.project3androidstudio.test.app-ui-util-release-1 C:\Users\zldel\.gradle\caches\transforms-3\0fc9ba4d1e9e32e9c493114681d41b80\transformed\ui-util-release\res
+com.example.project3androidstudio.test.app-ui-test-junit4-release-2 C:\Users\zldel\.gradle\caches\transforms-3\14b35d9684a9b935b96ba9fc851af4ac\transformed\ui-test-junit4-release\res
+com.example.project3androidstudio.test.app-lifecycle-viewmodel-ktx-2.6.1-3 C:\Users\zldel\.gradle\caches\transforms-3\2a1dc0ef64aeb32da38f0bb807a13b8d\transformed\lifecycle-viewmodel-ktx-2.6.1\res
+com.example.project3androidstudio.test.app-core-1.10.1-4 C:\Users\zldel\.gradle\caches\transforms-3\31a082062e6cb36f312b06a7489bfe72\transformed\core-1.10.1\res
+com.example.project3androidstudio.test.app-ui-graphics-release-5 C:\Users\zldel\.gradle\caches\transforms-3\38901fa53a3bfae404ecc0ce49242163\transformed\ui-graphics-release\res
+com.example.project3androidstudio.test.app-lifecycle-livedata-core-2.6.1-6 C:\Users\zldel\.gradle\caches\transforms-3\3d4381c7f19c68ef15bccc28ef6bf0e3\transformed\lifecycle-livedata-core-2.6.1\res
+com.example.project3androidstudio.test.app-lifecycle-viewmodel-2.6.1-7 C:\Users\zldel\.gradle\caches\transforms-3\45ee67d8d0ea3422d33282892d0ad77f\transformed\lifecycle-viewmodel-2.6.1\res
+com.example.project3androidstudio.test.app-savedstate-ktx-1.2.1-8 C:\Users\zldel\.gradle\caches\transforms-3\4652180107297d1b68938eff4ae975f0\transformed\savedstate-ktx-1.2.1\res
+com.example.project3androidstudio.test.app-activity-1.7.0-9 C:\Users\zldel\.gradle\caches\transforms-3\4b01074a4ebd0b265341c7f2923249f1\transformed\activity-1.7.0\res
+com.example.project3androidstudio.test.app-lifecycle-viewmodel-savedstate-2.6.1-10 C:\Users\zldel\.gradle\caches\transforms-3\4b0dffb5af409b44e88a9f1e5b038ec7\transformed\lifecycle-viewmodel-savedstate-2.6.1\res
+com.example.project3androidstudio.test.app-ui-release-11 C:\Users\zldel\.gradle\caches\transforms-3\6e18ba4389101554fb5fe1d533e4dbd7\transformed\ui-release\res
+com.example.project3androidstudio.test.app-runtime-saveable-release-12 C:\Users\zldel\.gradle\caches\transforms-3\724d8a33f06359ecf28e4ebb726cac36\transformed\runtime-saveable-release\res
+com.example.project3androidstudio.test.app-lifecycle-runtime-2.6.1-13 C:\Users\zldel\.gradle\caches\transforms-3\741471a9d95e70cc7862948864ecfc4e\transformed\lifecycle-runtime-2.6.1\res
+com.example.project3androidstudio.test.app-ui-test-release-14 C:\Users\zldel\.gradle\caches\transforms-3\7a8f6d94d385b033efefad155931ee36\transformed\ui-test-release\res
+com.example.project3androidstudio.test.app-ui-text-release-15 C:\Users\zldel\.gradle\caches\transforms-3\80b6e0ff1e2ba2b86332c71de3dc9e8a\transformed\ui-text-release\res
+com.example.project3androidstudio.test.app-savedstate-1.2.1-16 C:\Users\zldel\.gradle\caches\transforms-3\8157ab961eed74c85d617809a04b9722\transformed\savedstate-1.2.1\res
+com.example.project3androidstudio.test.app-activity-compose-1.7.0-17 C:\Users\zldel\.gradle\caches\transforms-3\81a0c58d6625c2314c6e25b614abe3ec\transformed\activity-compose-1.7.0\res
+com.example.project3androidstudio.test.app-core-ktx-1.10.1-18 C:\Users\zldel\.gradle\caches\transforms-3\83dbc2c382c6297e450f7917794317ed\transformed\core-ktx-1.10.1\res
+com.example.project3androidstudio.test.app-core-runtime-2.2.0-19 C:\Users\zldel\.gradle\caches\transforms-3\89fddfb36e16db218499d0b8680bb316\transformed\core-runtime-2.2.0\res
+com.example.project3androidstudio.test.app-activity-ktx-1.7.0-20 C:\Users\zldel\.gradle\caches\transforms-3\8e48aa1d05d69db2a420dc8a660900a1\transformed\activity-ktx-1.7.0\res
+com.example.project3androidstudio.test.app-runtime-release-21 C:\Users\zldel\.gradle\caches\transforms-3\a0e6d127e9e2e0258c86b910be9e32bd\transformed\runtime-release\res
+com.example.project3androidstudio.test.app-lifecycle-process-2.6.1-22 C:\Users\zldel\.gradle\caches\transforms-3\a2119e73db488a4058f50c8bea0f76ca\transformed\lifecycle-process-2.6.1\res
+com.example.project3androidstudio.test.app-core-1.5.0-23 C:\Users\zldel\.gradle\caches\transforms-3\b1fdbd6c12a29475fce917f402636199\transformed\core-1.5.0\res
+com.example.project3androidstudio.test.app-annotation-experimental-1.3.0-24 C:\Users\zldel\.gradle\caches\transforms-3\bce3c3d39551a2a64e783fa888995479\transformed\annotation-experimental-1.3.0\res
+com.example.project3androidstudio.test.app-ui-geometry-release-25 C:\Users\zldel\.gradle\caches\transforms-3\c9c48031e7c5f119cfc1c502df7ae1fb\transformed\ui-geometry-release\res
+com.example.project3androidstudio.test.app-profileinstaller-1.3.0-26 C:\Users\zldel\.gradle\caches\transforms-3\d44ecac6aba66a9afe17f960d6e07f3b\transformed\profileinstaller-1.3.0\res
+com.example.project3androidstudio.test.app-startup-runtime-1.1.1-27 C:\Users\zldel\.gradle\caches\transforms-3\e6850f4de428ec33564b59ac8c943bf1\transformed\startup-runtime-1.1.1\res
+com.example.project3androidstudio.test.app-customview-poolingcontainer-1.0.0-28 C:\Users\zldel\.gradle\caches\transforms-3\ea47a44b8b867dd8ee001a899d420347\transformed\customview-poolingcontainer-1.0.0\res
+com.example.project3androidstudio.test.app-ui-unit-release-29 C:\Users\zldel\.gradle\caches\transforms-3\ef08a78f62dcedf04ce901477fa5b17f\transformed\ui-unit-release\res
+com.example.project3androidstudio.test.app-lifecycle-runtime-ktx-2.6.1-30 C:\Users\zldel\.gradle\caches\transforms-3\fde239c7283a8d7f459c2a8ab3f2ffe0\transformed\lifecycle-runtime-ktx-2.6.1\res
+com.example.project3androidstudio.test.app-androidTest-31 C:\Users\zldel\Documents\CSCE 3220\project3androidstudio\app\build\generated\res\resValues\androidTest\debug
+com.example.project3androidstudio.test.app-mergeDebugAndroidTestResources-32 C:\Users\zldel\Documents\CSCE 3220\project3androidstudio\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.project3androidstudio.test.app-mergeDebugAndroidTestResources-33 C:\Users\zldel\Documents\CSCE 3220\project3androidstudio\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.project3androidstudio.test.app-merged_res-34 C:\Users\zldel\Documents\CSCE 3220\project3androidstudio\app\build\intermediates\merged_res\debugAndroidTest

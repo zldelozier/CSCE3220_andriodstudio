@@ -1,0 +1,150 @@
+[
+    {
+        "merged": "C:\\Users\\zldel\\.gradle\\daemon\\8.2\\com.example.project3androidstudio.app-merged_res-57:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\zldel\\.gradle\\daemon\\8.2\\com.example.project3androidstudio.app-main-59:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\zldel\\.gradle\\daemon\\8.2\\com.example.project3androidstudio.app-merged_res-57:\\drawable_page9.jpg.flat",
+        "source": "C:\\Users\\zldel\\.gradle\\daemon\\8.2\\com.example.project3androidstudio.app-main-59:\\drawable\\page9.jpg"
+    },
+    {
+        "merged": "C:\\Users\\zldel\\.gradle\\daemon\\8.2\\com.example.project3androidstudio.app-merged_res-57:\\drawable_page13.jpg.flat",
+        "source": "C:\\Users\\zldel\\.gradle\\daemon\\8.2\\com.example.project3androidstudio.app-main-59:\\drawable\\page13.jpg"
+    },
+    {
+        "merged": "C:\\Users\\zldel\\.gradle\\daemon\\8.2\\com.example.project3androidstudio.app-merged_res-57:\\layout_mainview.xml.flat",
+        "source": "C:\\Users\\zldel\\.gradle\\daemon\\8.2\\com.example.project3androidstudio.app-main-59:\\layout\\mainview.xml"
+    },
+    {
+        "merged": "C:\\Users\\zldel\\.gradle\\daemon\\8.2\\com.example.project3androidstudio.app-merged_res-57:\\drawable_page11.jpg.flat",
+        "source": "C:\\Users\\zldel\\.gradle\\daemon\\8.2\\com.example.project3androidstudio.app-main-59:\\drawable\\page11.jpg"
+    },
+    {
+        "merged": "C:\\Users\\zldel\\.gradle\\daemon\\8.2\\com.example.project3androidstudio.app-merged_res-57:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\zldel\\.gradle\\daemon\\8.2\\com.example.project3androidstudio.app-main-59:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\zldel\\.gradle\\daemon\\8.2\\com.example.project3androidstudio.app-merged_res-57:\\drawable_page15.jpg.flat",
+        "source": "C:\\Users\\zldel\\.gradle\\daemon\\8.2\\com.example.project3androidstudio.app-main-59:\\drawable\\page15.jpg"
+    },
+    {
+        "merged": "C:\\Users\\zldel\\.gradle\\daemon\\8.2\\com.example.project3androidstudio.app-merged_res-57:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\zldel\\.gradle\\daemon\\8.2\\com.example.project3androidstudio.app-main-59:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\zldel\\.gradle\\daemon\\8.2\\com.example.project3androidstudio.app-merged_res-57:\\drawable_page4.jpg.flat",
+        "source": "C:\\Users\\zldel\\.gradle\\daemon\\8.2\\com.example.project3androidstudio.app-main-59:\\drawable\\page4.jpg"
+    },
+    {
+        "merged": "C:\\Users\\zldel\\.gradle\\daemon\\8.2\\com.example.project3androidstudio.app-merged_res-57:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\zldel\\.gradle\\daemon\\8.2\\com.example.project3androidstudio.app-main-59:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\zldel\\.gradle\\daemon\\8.2\\com.example.project3androidstudio.app-merged_res-57:\\drawable_bookback.jpg.flat",
+        "source": "C:\\Users\\zldel\\.gradle\\daemon\\8.2\\com.example.project3androidstudio.app-main-59:\\drawable\\bookback.jpg"
+    },
+    {
+        "merged": "C:\\Users\\zldel\\.gradle\\daemon\\8.2\\com.example.project3androidstudio.app-merged_res-57:\\drawable_page6.jpg.flat",
+        "source": "C:\\Users\\zldel\\.gradle\\daemon\\8.2\\com.example.project3androidstudio.app-main-59:\\drawable\\page6.jpg"
+    },
+    {
+        "merged": "C:\\Users\\zldel\\.gradle\\daemon\\8.2\\com.example.project3androidstudio.app-merged_res-57:\\drawable_page3.jpg.flat",
+        "source": "C:\\Users\\zldel\\.gradle\\daemon\\8.2\\com.example.project3androidstudio.app-main-59:\\drawable\\page3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\zldel\\.gradle\\daemon\\8.2\\com.example.project3androidstudio.app-merged_res-57:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\zldel\\.gradle\\daemon\\8.2\\com.example.project3androidstudio.app-main-59:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\zldel\\.gradle\\daemon\\8.2\\com.example.project3androidstudio.app-merged_res-57:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\zldel\\.gradle\\daemon\\8.2\\com.example.project3androidstudio.app-main-59:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\zldel\\.gradle\\daemon\\8.2\\com.example.project3androidstudio.app-merged_res-57:\\drawable_page1.jpg.flat",
+        "source": "C:\\Users\\zldel\\.gradle\\daemon\\8.2\\com.example.project3androidstudio.app-main-59:\\drawable\\page1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\zldel\\.gradle\\daemon\\8.2\\com.example.project3androidstudio.app-merged_res-57:\\drawable_page12.jpg.flat",
+        "source": "C:\\Users\\zldel\\.gradle\\daemon\\8.2\\com.example.project3androidstudio.app-main-59:\\drawable\\page12.jpg"
+    },
+    {
+        "merged": "C:\\Users\\zldel\\.gradle\\daemon\\8.2\\com.example.project3androidstudio.app-merged_res-57:\\drawable_page8.jpg.flat",
+        "source": "C:\\Users\\zldel\\.gradle\\daemon\\8.2\\com.example.project3androidstudio.app-main-59:\\drawable\\page8.jpg"
+    },
+    {
+        "merged": "C:\\Users\\zldel\\.gradle\\daemon\\8.2\\com.example.project3androidstudio.app-merged_res-57:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\zldel\\.gradle\\daemon\\8.2\\com.example.project3androidstudio.app-main-59:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\zldel\\.gradle\\daemon\\8.2\\com.example.project3androidstudio.app-merged_res-57:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\zldel\\.gradle\\daemon\\8.2\\com.example.project3androidstudio.app-main-59:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\zldel\\.gradle\\daemon\\8.2\\com.example.project3androidstudio.app-merged_res-57:\\drawable_page14.jpg.flat",
+        "source": "C:\\Users\\zldel\\.gradle\\daemon\\8.2\\com.example.project3androidstudio.app-main-59:\\drawable\\page14.jpg"
+    },
+    {
+        "merged": "C:\\Users\\zldel\\.gradle\\daemon\\8.2\\com.example.project3androidstudio.app-merged_res-57:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\zldel\\.gradle\\daemon\\8.2\\com.example.project3androidstudio.app-main-59:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\zldel\\.gradle\\daemon\\8.2\\com.example.project3androidstudio.app-merged_res-57:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\zldel\\.gradle\\daemon\\8.2\\com.example.project3androidstudio.app-main-59:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\zldel\\.gradle\\daemon\\8.2\\com.example.project3androidstudio.app-merged_res-57:\\drawable_page16.jpg.flat",
+        "source": "C:\\Users\\zldel\\.gradle\\daemon\\8.2\\com.example.project3androidstudio.app-main-59:\\drawable\\page16.jpg"
+    },
+    {
+        "merged": "C:\\Users\\zldel\\.gradle\\daemon\\8.2\\com.example.project3androidstudio.app-merged_res-57:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\zldel\\.gradle\\daemon\\8.2\\com.example.project3androidstudio.app-main-59:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\zldel\\.gradle\\daemon\\8.2\\com.example.project3androidstudio.app-merged_res-57:\\drawable_nextimg.xml.flat",
+        "source": "C:\\Users\\zldel\\.gradle\\daemon\\8.2\\com.example.project3androidstudio.app-main-59:\\drawable\\nextimg.xml"
+    },
+    {
+        "merged": "C:\\Users\\zldel\\.gradle\\daemon\\8.2\\com.example.project3androidstudio.app-merged_res-57:\\drawable_page10.jpg.flat",
+        "source": "C:\\Users\\zldel\\.gradle\\daemon\\8.2\\com.example.project3androidstudio.app-main-59:\\drawable\\page10.jpg"
+    },
+    {
+        "merged": "C:\\Users\\zldel\\.gradle\\daemon\\8.2\\com.example.project3androidstudio.app-merged_res-57:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\zldel\\.gradle\\daemon\\8.2\\com.example.project3androidstudio.app-main-59:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\zldel\\.gradle\\daemon\\8.2\\com.example.project3androidstudio.app-merged_res-57:\\drawable_page5.jpg.flat",
+        "source": "C:\\Users\\zldel\\.gradle\\daemon\\8.2\\com.example.project3androidstudio.app-main-59:\\drawable\\page5.jpg"
+    },
+    {
+        "merged": "com.example.project3androidstudio.app-merged_res-57:/layout_mainview.xml.flat",
+        "source": "com.example.project3androidstudio.app-main-59:/layout/mainview.xml"
+    },
+    {
+        "merged": "C:\\Users\\zldel\\.gradle\\daemon\\8.2\\com.example.project3androidstudio.app-merged_res-57:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\zldel\\.gradle\\daemon\\8.2\\com.example.project3androidstudio.app-main-59:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\zldel\\.gradle\\daemon\\8.2\\com.example.project3androidstudio.app-merged_res-57:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\zldel\\.gradle\\daemon\\8.2\\com.example.project3androidstudio.app-main-59:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\zldel\\.gradle\\daemon\\8.2\\com.example.project3androidstudio.app-merged_res-57:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\zldel\\.gradle\\daemon\\8.2\\com.example.project3androidstudio.app-main-59:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\zldel\\.gradle\\daemon\\8.2\\com.example.project3androidstudio.app-merged_res-57:\\drawable_page2.jpg.flat",
+        "source": "C:\\Users\\zldel\\.gradle\\daemon\\8.2\\com.example.project3androidstudio.app-main-59:\\drawable\\page2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\zldel\\.gradle\\daemon\\8.2\\com.example.project3androidstudio.app-merged_res-57:\\drawable_bookfront.jpg.flat",
+        "source": "C:\\Users\\zldel\\.gradle\\daemon\\8.2\\com.example.project3androidstudio.app-main-59:\\drawable\\bookfront.jpg"
+    },
+    {
+        "merged": "C:\\Users\\zldel\\.gradle\\daemon\\8.2\\com.example.project3androidstudio.app-merged_res-57:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\zldel\\.gradle\\daemon\\8.2\\com.example.project3androidstudio.app-main-59:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\zldel\\.gradle\\daemon\\8.2\\com.example.project3androidstudio.app-merged_res-57:\\drawable_page7.jpg.flat",
+        "source": "C:\\Users\\zldel\\.gradle\\daemon\\8.2\\com.example.project3androidstudio.app-main-59:\\drawable\\page7.jpg"
+    }
+]

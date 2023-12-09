@@ -1,0 +1,59 @@
+com.example.project3androidstudio.app-ui-tooling-release-0 C:\Users\zldel\.gradle\caches\transforms-3\00d0f7322cd15a5e02258c3c4539c057\transformed\ui-tooling-release\res
+com.example.project3androidstudio.app-emoji2-1.4.0-1 C:\Users\zldel\.gradle\caches\transforms-3\04da80a6fca3327fe9f97cceef988bb0\transformed\emoji2-1.4.0\res
+com.example.project3androidstudio.app-animation-core-release-2 C:\Users\zldel\.gradle\caches\transforms-3\0b8ae3e3d2196bf2805c16b77a78a857\transformed\animation-core-release\res
+com.example.project3androidstudio.app-material3-1.1.1-3 C:\Users\zldel\.gradle\caches\transforms-3\0c37040985f903e29da80e710f1e4536\transformed\material3-1.1.1\res
+com.example.project3androidstudio.app-ui-util-release-4 C:\Users\zldel\.gradle\caches\transforms-3\0fc9ba4d1e9e32e9c493114681d41b80\transformed\ui-util-release\res
+com.example.project3androidstudio.app-constraintlayout-2.0.1-5 C:\Users\zldel\.gradle\caches\transforms-3\10c11e94a8690a8b0c6a6ebc7945fbc4\transformed\constraintlayout-2.0.1\res
+com.example.project3androidstudio.app-drawerlayout-1.1.1-6 C:\Users\zldel\.gradle\caches\transforms-3\158b8abd07ac6417fd33f2805a83a985\transformed\drawerlayout-1.1.1\res
+com.example.project3androidstudio.app-material-1.10.0-7 C:\Users\zldel\.gradle\caches\transforms-3\2267d41d52bd10abd9c1f1fa4f572c70\transformed\material-1.10.0\res
+com.example.project3androidstudio.app-lifecycle-livedata-2.6.1-8 C:\Users\zldel\.gradle\caches\transforms-3\2560b9e186c3f5f8fe57d856b03efc76\transformed\lifecycle-livedata-2.6.1\res
+com.example.project3androidstudio.app-lifecycle-viewmodel-ktx-2.6.1-9 C:\Users\zldel\.gradle\caches\transforms-3\2a1dc0ef64aeb32da38f0bb807a13b8d\transformed\lifecycle-viewmodel-ktx-2.6.1\res
+com.example.project3androidstudio.app-ui-tooling-preview-release-10 C:\Users\zldel\.gradle\caches\transforms-3\2e3cfaa94a2139970ad57159d2f93dcc\transformed\ui-tooling-preview-release\res
+com.example.project3androidstudio.app-core-1.10.1-11 C:\Users\zldel\.gradle\caches\transforms-3\31a082062e6cb36f312b06a7489bfe72\transformed\core-1.10.1\res
+com.example.project3androidstudio.app-ui-graphics-release-12 C:\Users\zldel\.gradle\caches\transforms-3\38901fa53a3bfae404ecc0ce49242163\transformed\ui-graphics-release\res
+com.example.project3androidstudio.app-lifecycle-livedata-core-2.6.1-13 C:\Users\zldel\.gradle\caches\transforms-3\3d4381c7f19c68ef15bccc28ef6bf0e3\transformed\lifecycle-livedata-core-2.6.1\res
+com.example.project3androidstudio.app-activity-1.8.0-14 C:\Users\zldel\.gradle\caches\transforms-3\3e700834582c64e272af1a0d1d204e4c\transformed\activity-1.8.0\res
+com.example.project3androidstudio.app-material-ripple-release-15 C:\Users\zldel\.gradle\caches\transforms-3\43616ce88f6e2e746f9b065638ea6512\transformed\material-ripple-release\res
+com.example.project3androidstudio.app-activity-ktx-1.8.0-16 C:\Users\zldel\.gradle\caches\transforms-3\453b050f230bac63d6aeadcd72d99eea\transformed\activity-ktx-1.8.0\res
+com.example.project3androidstudio.app-lifecycle-viewmodel-2.6.1-17 C:\Users\zldel\.gradle\caches\transforms-3\45ee67d8d0ea3422d33282892d0ad77f\transformed\lifecycle-viewmodel-2.6.1\res
+com.example.project3androidstudio.app-savedstate-ktx-1.2.1-18 C:\Users\zldel\.gradle\caches\transforms-3\4652180107297d1b68938eff4ae975f0\transformed\savedstate-ktx-1.2.1\res
+com.example.project3androidstudio.app-lifecycle-viewmodel-savedstate-2.6.1-19 C:\Users\zldel\.gradle\caches\transforms-3\4b0dffb5af409b44e88a9f1e5b038ec7\transformed\lifecycle-viewmodel-savedstate-2.6.1\res
+com.example.project3androidstudio.app-appcompat-1.6.1-20 C:\Users\zldel\.gradle\caches\transforms-3\53ae9d152f73a2bf6e96f275d81b2377\transformed\appcompat-1.6.1\res
+com.example.project3androidstudio.app-cardview-1.0.0-21 C:\Users\zldel\.gradle\caches\transforms-3\577b229bee4d5ea0061818be449f87de\transformed\cardview-1.0.0\res
+com.example.project3androidstudio.app-foundation-layout-release-22 C:\Users\zldel\.gradle\caches\transforms-3\58366033c02f4747c11cbd1ad5c51204\transformed\foundation-layout-release\res
+com.example.project3androidstudio.app-viewpager2-1.0.0-23 C:\Users\zldel\.gradle\caches\transforms-3\67c5fbdc962403a533e75e368c668528\transformed\viewpager2-1.0.0\res
+com.example.project3androidstudio.app-ui-release-24 C:\Users\zldel\.gradle\caches\transforms-3\6e18ba4389101554fb5fe1d533e4dbd7\transformed\ui-release\res
+com.example.project3androidstudio.app-runtime-saveable-release-25 C:\Users\zldel\.gradle\caches\transforms-3\724d8a33f06359ecf28e4ebb726cac36\transformed\runtime-saveable-release\res
+com.example.project3androidstudio.app-lifecycle-runtime-2.6.1-26 C:\Users\zldel\.gradle\caches\transforms-3\741471a9d95e70cc7862948864ecfc4e\transformed\lifecycle-runtime-2.6.1\res
+com.example.project3androidstudio.app-transition-1.2.0-27 C:\Users\zldel\.gradle\caches\transforms-3\7ee984ff7891ed79f1e0ce257e5e27e8\transformed\transition-1.2.0\res
+com.example.project3androidstudio.app-ui-text-release-28 C:\Users\zldel\.gradle\caches\transforms-3\80b6e0ff1e2ba2b86332c71de3dc9e8a\transformed\ui-text-release\res
+com.example.project3androidstudio.app-savedstate-1.2.1-29 C:\Users\zldel\.gradle\caches\transforms-3\8157ab961eed74c85d617809a04b9722\transformed\savedstate-1.2.1\res
+com.example.project3androidstudio.app-core-ktx-1.10.1-30 C:\Users\zldel\.gradle\caches\transforms-3\83dbc2c382c6297e450f7917794317ed\transformed\core-ktx-1.10.1\res
+com.example.project3androidstudio.app-material-release-31 C:\Users\zldel\.gradle\caches\transforms-3\858c3a1216e71a0ced45f0f425150d3c\transformed\material-release\res
+com.example.project3androidstudio.app-core-runtime-2.2.0-32 C:\Users\zldel\.gradle\caches\transforms-3\89fddfb36e16db218499d0b8680bb316\transformed\core-runtime-2.2.0\res
+com.example.project3androidstudio.app-animation-release-33 C:\Users\zldel\.gradle\caches\transforms-3\93402aa9ebdcb927effe809012698d1b\transformed\animation-release\res
+com.example.project3androidstudio.app-runtime-release-34 C:\Users\zldel\.gradle\caches\transforms-3\a0e6d127e9e2e0258c86b910be9e32bd\transformed\runtime-release\res
+com.example.project3androidstudio.app-lifecycle-process-2.6.1-35 C:\Users\zldel\.gradle\caches\transforms-3\a2119e73db488a4058f50c8bea0f76ca\transformed\lifecycle-process-2.6.1\res
+com.example.project3androidstudio.app-activity-compose-1.8.0-36 C:\Users\zldel\.gradle\caches\transforms-3\a232796553e902c49e9baea7dcb372b3\transformed\activity-compose-1.8.0\res
+com.example.project3androidstudio.app-fragment-1.3.6-37 C:\Users\zldel\.gradle\caches\transforms-3\a61f47a015eebfe1d88d572a51d5872c\transformed\fragment-1.3.6\res
+com.example.project3androidstudio.app-emoji2-views-helper-1.4.0-38 C:\Users\zldel\.gradle\caches\transforms-3\bacf2e3ef825dce929676eb61500775b\transformed\emoji2-views-helper-1.4.0\res
+com.example.project3androidstudio.app-annotation-experimental-1.3.0-39 C:\Users\zldel\.gradle\caches\transforms-3\bce3c3d39551a2a64e783fa888995479\transformed\annotation-experimental-1.3.0\res
+com.example.project3androidstudio.app-ui-test-manifest-1.5.0-40 C:\Users\zldel\.gradle\caches\transforms-3\c15bcf1bded28fa354e3e5db4bcd6948\transformed\ui-test-manifest-1.5.0\res
+com.example.project3androidstudio.app-ui-tooling-data-release-41 C:\Users\zldel\.gradle\caches\transforms-3\c8ab9a7d0c60f3db19accb6071e6bd54\transformed\ui-tooling-data-release\res
+com.example.project3androidstudio.app-ui-geometry-release-42 C:\Users\zldel\.gradle\caches\transforms-3\c9c48031e7c5f119cfc1c502df7ae1fb\transformed\ui-geometry-release\res
+com.example.project3androidstudio.app-profileinstaller-1.3.0-43 C:\Users\zldel\.gradle\caches\transforms-3\d44ecac6aba66a9afe17f960d6e07f3b\transformed\profileinstaller-1.3.0\res
+com.example.project3androidstudio.app-recyclerview-1.1.0-44 C:\Users\zldel\.gradle\caches\transforms-3\d6d5e87f778b896ac7ebe8311aa7c147\transformed\recyclerview-1.1.0\res
+com.example.project3androidstudio.app-startup-runtime-1.1.1-45 C:\Users\zldel\.gradle\caches\transforms-3\e6850f4de428ec33564b59ac8c943bf1\transformed\startup-runtime-1.1.1\res
+com.example.project3androidstudio.app-appcompat-resources-1.6.1-46 C:\Users\zldel\.gradle\caches\transforms-3\e7006985deb784b8ab419c541575c54c\transformed\appcompat-resources-1.6.1\res
+com.example.project3androidstudio.app-customview-poolingcontainer-1.0.0-47 C:\Users\zldel\.gradle\caches\transforms-3\ea47a44b8b867dd8ee001a899d420347\transformed\customview-poolingcontainer-1.0.0\res
+com.example.project3androidstudio.app-material-icons-core-release-48 C:\Users\zldel\.gradle\caches\transforms-3\ebcec630ae9413e0f1a2a1f309d3395c\transformed\material-icons-core-release\res
+com.example.project3androidstudio.app-coordinatorlayout-1.1.0-49 C:\Users\zldel\.gradle\caches\transforms-3\ecf4e9d47a422ed17d476d32c78c49f7\transformed\coordinatorlayout-1.1.0\res
+com.example.project3androidstudio.app-foundation-release-50 C:\Users\zldel\.gradle\caches\transforms-3\ee399b9a4bae2ccc876178c2a08b2ca8\transformed\foundation-release\res
+com.example.project3androidstudio.app-ui-unit-release-51 C:\Users\zldel\.gradle\caches\transforms-3\ef08a78f62dcedf04ce901477fa5b17f\transformed\ui-unit-release\res
+com.example.project3androidstudio.app-lifecycle-runtime-ktx-2.6.1-52 C:\Users\zldel\.gradle\caches\transforms-3\fde239c7283a8d7f459c2a8ab3f2ffe0\transformed\lifecycle-runtime-ktx-2.6.1\res
+com.example.project3androidstudio.app-resValues-53 C:\Users\zldel\Documents\CSCE 3220\project3androidstudio\app\build\generated\res\resValues\debug
+com.example.project3androidstudio.app-packageDebugResources-54 C:\Users\zldel\Documents\CSCE 3220\project3androidstudio\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.project3androidstudio.app-packageDebugResources-55 C:\Users\zldel\Documents\CSCE 3220\project3androidstudio\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.project3androidstudio.app-merged_res-56 C:\Users\zldel\Documents\CSCE 3220\project3androidstudio\app\build\intermediates\merged_res\debug
+com.example.project3androidstudio.app-debug-57 C:\Users\zldel\Documents\CSCE 3220\project3androidstudio\app\src\debug\res
+com.example.project3androidstudio.app-main-58 C:\Users\zldel\Documents\CSCE 3220\project3androidstudio\app\src\main\res
